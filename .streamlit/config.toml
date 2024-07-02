@@ -1,1 +1,16 @@
+[server]
+headless = true
+port = 8501
+maxUploadSize = 600
+maxMessageSize = 600
 
+[browser]
+gatherUsageStats = false
+
+
+
+[theme]
+primaryColor="#40A2D8"
+backgroundColor="#F6F1F1"
+secondaryBackgroundColor="#40A2D8"
+textColor="#000000"
